@@ -1,1 +1,2 @@
-# MMAI894
+# Overview
+The objective of the project is to explore whether an NLP sentiment model can improve a deep learning stock price prediction model. The project's scope is to develop an NLP model that collects data from equity-oriented discussion groups on Reddit. The model will use this information to generate a sentiment score as an input into one or more deep learning stock price prediction model(s). The data for the deep learning model are historical and real-time financial information sourced from Yahoo Finance. The training, prediction, and analysis goal (i.e. prediction phase) is to evaluate if social media feeds improve forecasting accuracy of the model versus evaluating forecasting accuracy without social media feeds. 
