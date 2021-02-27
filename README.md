@@ -13,7 +13,4 @@ The stock price analysis part helps collect the general trend of the stock price
 The deep learning model is the backbone of the implemented system. It consists of a mixed input multi-branched deep learning neural network. The outputs of each branch are concatenated and correlated to obtain the output stock price and sentiment score (polarity).  The combined knowledge of both types of the data, the system is empowered to provide precise and consistent predictions on the stock prices.
 
 ### Implementation Architecture
-
-
-
- 
+![Design](https://github.com/gopibalasingam/stockprediction/blob/main/stockprediction.png)
